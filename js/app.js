@@ -10,13 +10,7 @@ function loadEventListners(){
 
     });
 }
-// function buycourse(e){
-  
-// console.log("Sample:" + e.target);
 
-// if(e.target.) 
-
-// }
 
 
 
