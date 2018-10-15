@@ -8,3 +8,5 @@ It is a basic JavaScript-Project
 3. User can Delete the item in the list individally (or)
 
 4. User can Clear the Cart completely by clicking "CLEAR CART".
+
+Tools Used: JavaScript, Css, Html.
